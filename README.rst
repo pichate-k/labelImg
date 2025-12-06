@@ -315,3 +315,6 @@ Stargazers over time
 
 .. image:: https://starchart.cc/tzutalin/labelImg.svg
 
+
+YouTube Tutorial: https://www.youtube.com/watch?v=XxslbNwcdaI 
+
